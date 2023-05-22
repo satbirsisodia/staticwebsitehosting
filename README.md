@@ -72,3 +72,4 @@ If you'd like to **use the template without the attribution**, you can [buy the 
 - [Bootstrap](https://getbootstrap.com/)
 - [FontAwesome](https://fortawesome.github.io/Font-Awesome/)
 - [Highlight.js](https://highlightjs.org/)
+# staticwebsitehosting
